@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bardh Rushiti</h1>
+<h1 align="center">Hi 👋, I'm Bardh</h1>
 <h3 align="center">A passionate machine learning engineer in Rochester, NY</h3>
 
 - 🔭 I’m currently working on [3D Reconstruction of Lung Structure and Pathology](https://github.com/Bardhitoo/lung-structure-and-pathology-reconstruction)
