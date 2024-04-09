@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bardh Rushiti</h1>
 <h3 align="center">A passionate Machine Learning Engineer in Rochester, NY</h3>
 
-- 🔭 I’m currently working on [3D Reconstruction of Lung Structure and Pathology](https://github.com/Bardhitoo/lung-structure-and-pathology-reconstruction)
+- 🤖 I’m currently working on vision system for robotic perception in an unconstrained environments 
 
-- 🌱 I’m currently learning **Multi-task learning in PyTorch**
+- 🌱 I’m currently learning **Transformer-based architectures**
 
-- 👯 I’m looking to collaborate on [Monocular Depth Estimation](https://github.com/Bardhitoo/monocular_depth_estimation)
+- 👯 I’m looking to collaborate on **large language models projects**
 
 - 👨‍💻 All of my projects are available at [github.com/bardhitoo](github.com/bardhitoo)
 
-- 💬 Ask me about **Python, Matlab, TensorFlow, Computer Vision**
+- 💬 Ask me about **Python, Matlab, PyTorch, Machine Learning, Neural Networks, Computer Vision**
 
 - 📫 How to reach me **bardhrushiti@gmail.com**
 
