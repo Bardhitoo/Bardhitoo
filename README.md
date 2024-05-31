@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bardh Rushiti</h1>
-<h3 align="center">A passionate Machine Learning Engineer in Rochester, NY</h3>
+<h3 align="center">A passionate Machine Learning Research Engineer in Rochester, NY</h3>
 
 - 🤖 I’m currently working on vision system for robotic perception in an unconstrained environments 
 
